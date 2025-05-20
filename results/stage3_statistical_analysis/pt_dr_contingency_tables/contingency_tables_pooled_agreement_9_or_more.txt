@@ -1,0 +1,63 @@
+_______________
+Pooling: pooled_agreement_9_or_more
+______________
+Contingency Table for Repetition || cause:
+              DR Present  DR Absent
+PT Present    5            0         
+PT Absent     29           170       
+
+
+Contingency Table for Name_Calling-Labeling || cause:
+              DR Present  DR Absent
+PT Present    11           0         
+PT Absent     23           170       
+
+
+Contingency Table for Loaded_Language || cause:
+              DR Present  DR Absent
+PT Present    18           0         
+PT Absent     16           170       
+
+
+_______________
+Pooling: pooled_agreement_9_or_more
+______________
+Contingency Table for Name_Calling-Labeling || cause:
+              DR Present  DR Absent
+PT Present    11           0         
+PT Absent     23           170       
+
+
+Contingency Table for Repetition || cause:
+              DR Present  DR Absent
+PT Present    5            0         
+PT Absent     29           170       
+
+
+Contingency Table for Loaded_Language || cause:
+              DR Present  DR Absent
+PT Present    18           0         
+PT Absent     16           170       
+
+
+_______________
+Pooling: pooled_agreement_9_or_more
+______________
+Contingency Table for Name_Calling-Labeling || cause:
+              DR Present  DR Absent
+PT Present    11           0         
+PT Absent     23           170       
+
+
+Contingency Table for Loaded_Language || cause:
+              DR Present  DR Absent
+PT Present    18           0         
+PT Absent     16           170       
+
+
+Contingency Table for Repetition || cause:
+              DR Present  DR Absent
+PT Present    5            0         
+PT Absent     29           170       
+
+

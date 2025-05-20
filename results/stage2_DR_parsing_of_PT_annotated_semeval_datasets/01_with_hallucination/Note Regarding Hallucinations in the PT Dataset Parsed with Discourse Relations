@@ -1,0 +1,1 @@
+We manually added 'NA' to the DR key for hallucinations, inferred the level-2 parent sense for any valid level-3 predictions, and then copied the cleaned dataset into the hallucination_removed directory.

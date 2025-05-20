@@ -1,0 +1,25 @@
+# Note: DR Parsing Process
+
+This directory contains the results of parsing the PT-annotated dataset with discourse relations.
+
+## Parsing Process
+- We used our **top 9 classifier models** to annotate the `PT_dataset_A.json` dataset with discourse relations
+- The parsing results include some hallucinations that were then processed manually
+
+## Hallucination Handling
+**Hallucination definition**: This includes:
+- non-PDTB senses
+- "no relation" responses
+- level-1 senses
+
+**Important**: Level-3 sense predictions were **not** considered hallucinations as they were mapped to their level-2 parent sense. Note that macro-F1 scores do not include hallucinations in their calculation, as these can easily be filtered out.
+
+## Manual Processing
+- For hallucinations, we manually added "NA" to the `DR` key
+- For valid level-3 predictions (not considered hallucinations), we manually added their corresponding level-2 parent sense
+- After hallucination removal, we copied the cleaned JSON files and placed them in the `02_hallucination_removed/` directory
+
+## Directory Structure
+- `01_with_hallucination/`: Contains the raw parsing results before hallucination processing
+- `02_hallucination_removed/`: Contains the dataset after manual hallucination processing and correction
+- `03_pooled_datasets/`: Contains the final pooled datasets created from multiple classifiers

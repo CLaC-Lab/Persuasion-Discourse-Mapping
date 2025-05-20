@@ -1,0 +1,513 @@
+_______________
+Pooling: pooled_agreement_8_or_more
+______________
+Contingency Table for Appeal_to_Fear-Prejudice || contrast:
+              DR Present  DR Absent
+PT Present    4            13        
+PT Absent     56           315       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || cause:
+              DR Present  DR Absent
+PT Present    8            9         
+PT Absent     73           298       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || concession:
+              DR Present  DR Absent
+PT Present    4            13        
+PT Absent     38           333       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || purpose:
+              DR Present  DR Absent
+PT Present    1            16        
+PT Absent     28           343       
+
+
+Contingency Table for Doubt || contrast:
+              DR Present  DR Absent
+PT Present    14           24        
+PT Absent     46           304       
+
+
+Contingency Table for Doubt || cause:
+              DR Present  DR Absent
+PT Present    7            31        
+PT Absent     74           276       
+
+
+Contingency Table for Doubt || concession:
+              DR Present  DR Absent
+PT Present    14           24        
+PT Absent     28           322       
+
+
+Contingency Table for Doubt || purpose:
+              DR Present  DR Absent
+PT Present    3            35        
+PT Absent     26           324       
+
+
+Contingency Table for Loaded_Language || contrast:
+              DR Present  DR Absent
+PT Present    7            40        
+PT Absent     53           288       
+
+
+Contingency Table for Loaded_Language || cause:
+              DR Present  DR Absent
+PT Present    30           17        
+PT Absent     51           290       
+
+
+Contingency Table for Loaded_Language || concession:
+              DR Present  DR Absent
+PT Present    7            40        
+PT Absent     35           306       
+
+
+Contingency Table for Loaded_Language || purpose:
+              DR Present  DR Absent
+PT Present    3            44        
+PT Absent     26           315       
+
+
+Contingency Table for Name_Calling-Labeling || contrast:
+              DR Present  DR Absent
+PT Present    10           20        
+PT Absent     50           308       
+
+
+Contingency Table for Name_Calling-Labeling || cause:
+              DR Present  DR Absent
+PT Present    14           16        
+PT Absent     67           291       
+
+
+Contingency Table for Name_Calling-Labeling || concession:
+              DR Present  DR Absent
+PT Present    4            26        
+PT Absent     38           320       
+
+
+Contingency Table for Name_Calling-Labeling || purpose:
+              DR Present  DR Absent
+PT Present    2            28        
+PT Absent     27           331       
+
+
+Contingency Table for Exaggeration-Minimisation || contrast:
+              DR Present  DR Absent
+PT Present    7            24        
+PT Absent     53           304       
+
+
+Contingency Table for Exaggeration-Minimisation || cause:
+              DR Present  DR Absent
+PT Present    13           18        
+PT Absent     68           289       
+
+
+Contingency Table for Exaggeration-Minimisation || concession:
+              DR Present  DR Absent
+PT Present    5            26        
+PT Absent     37           320       
+
+
+Contingency Table for Exaggeration-Minimisation || purpose:
+              DR Present  DR Absent
+PT Present    6            25        
+PT Absent     23           334       
+
+
+Contingency Table for Repetition || contrast:
+              DR Present  DR Absent
+PT Present    11           19        
+PT Absent     49           309       
+
+
+Contingency Table for Repetition || cause:
+              DR Present  DR Absent
+PT Present    5            25        
+PT Absent     76           282       
+
+
+Contingency Table for Repetition || concession:
+              DR Present  DR Absent
+PT Present    5            25        
+PT Absent     37           321       
+
+
+Contingency Table for Repetition || purpose:
+              DR Present  DR Absent
+PT Present    9            21        
+PT Absent     20           338       
+
+
+Contingency Table for Flag_Waving || contrast:
+              DR Present  DR Absent
+PT Present    7            12        
+PT Absent     53           316       
+
+
+Contingency Table for Flag_Waving || cause:
+              DR Present  DR Absent
+PT Present    4            15        
+PT Absent     77           292       
+
+
+Contingency Table for Flag_Waving || concession:
+              DR Present  DR Absent
+PT Present    3            16        
+PT Absent     39           330       
+
+
+Contingency Table for Flag_Waving || purpose:
+              DR Present  DR Absent
+PT Present    5            14        
+PT Absent     24           345       
+
+
+_______________
+Pooling: pooled_agreement_8_or_more
+______________
+Contingency Table for Repetition || purpose:
+              DR Present  DR Absent
+PT Present    9            21        
+PT Absent     20           338       
+
+
+Contingency Table for Repetition || concession:
+              DR Present  DR Absent
+PT Present    5            25        
+PT Absent     37           321       
+
+
+Contingency Table for Repetition || contrast:
+              DR Present  DR Absent
+PT Present    11           19        
+PT Absent     49           309       
+
+
+Contingency Table for Repetition || cause:
+              DR Present  DR Absent
+PT Present    5            25        
+PT Absent     76           282       
+
+
+Contingency Table for Exaggeration-Minimisation || purpose:
+              DR Present  DR Absent
+PT Present    6            25        
+PT Absent     23           334       
+
+
+Contingency Table for Exaggeration-Minimisation || concession:
+              DR Present  DR Absent
+PT Present    5            26        
+PT Absent     37           320       
+
+
+Contingency Table for Exaggeration-Minimisation || contrast:
+              DR Present  DR Absent
+PT Present    7            24        
+PT Absent     53           304       
+
+
+Contingency Table for Exaggeration-Minimisation || cause:
+              DR Present  DR Absent
+PT Present    13           18        
+PT Absent     68           289       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || purpose:
+              DR Present  DR Absent
+PT Present    1            16        
+PT Absent     28           343       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || concession:
+              DR Present  DR Absent
+PT Present    4            13        
+PT Absent     38           333       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || contrast:
+              DR Present  DR Absent
+PT Present    4            13        
+PT Absent     56           315       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || cause:
+              DR Present  DR Absent
+PT Present    8            9         
+PT Absent     73           298       
+
+
+Contingency Table for Flag_Waving || purpose:
+              DR Present  DR Absent
+PT Present    5            14        
+PT Absent     24           345       
+
+
+Contingency Table for Flag_Waving || concession:
+              DR Present  DR Absent
+PT Present    3            16        
+PT Absent     39           330       
+
+
+Contingency Table for Flag_Waving || contrast:
+              DR Present  DR Absent
+PT Present    7            12        
+PT Absent     53           316       
+
+
+Contingency Table for Flag_Waving || cause:
+              DR Present  DR Absent
+PT Present    4            15        
+PT Absent     77           292       
+
+
+Contingency Table for Doubt || purpose:
+              DR Present  DR Absent
+PT Present    3            35        
+PT Absent     26           324       
+
+
+Contingency Table for Doubt || concession:
+              DR Present  DR Absent
+PT Present    14           24        
+PT Absent     28           322       
+
+
+Contingency Table for Doubt || contrast:
+              DR Present  DR Absent
+PT Present    14           24        
+PT Absent     46           304       
+
+
+Contingency Table for Doubt || cause:
+              DR Present  DR Absent
+PT Present    7            31        
+PT Absent     74           276       
+
+
+Contingency Table for Name_Calling-Labeling || purpose:
+              DR Present  DR Absent
+PT Present    2            28        
+PT Absent     27           331       
+
+
+Contingency Table for Name_Calling-Labeling || concession:
+              DR Present  DR Absent
+PT Present    4            26        
+PT Absent     38           320       
+
+
+Contingency Table for Name_Calling-Labeling || contrast:
+              DR Present  DR Absent
+PT Present    10           20        
+PT Absent     50           308       
+
+
+Contingency Table for Name_Calling-Labeling || cause:
+              DR Present  DR Absent
+PT Present    14           16        
+PT Absent     67           291       
+
+
+Contingency Table for Loaded_Language || purpose:
+              DR Present  DR Absent
+PT Present    3            44        
+PT Absent     26           315       
+
+
+Contingency Table for Loaded_Language || concession:
+              DR Present  DR Absent
+PT Present    7            40        
+PT Absent     35           306       
+
+
+Contingency Table for Loaded_Language || contrast:
+              DR Present  DR Absent
+PT Present    7            40        
+PT Absent     53           288       
+
+
+Contingency Table for Loaded_Language || cause:
+              DR Present  DR Absent
+PT Present    30           17        
+PT Absent     51           290       
+
+
+_______________
+Pooling: pooled_agreement_8_or_more
+______________
+Contingency Table for Name_Calling-Labeling || concession:
+              DR Present  DR Absent
+PT Present    4            26        
+PT Absent     38           320       
+
+
+Contingency Table for Name_Calling-Labeling || cause:
+              DR Present  DR Absent
+PT Present    14           16        
+PT Absent     67           291       
+
+
+Contingency Table for Name_Calling-Labeling || purpose:
+              DR Present  DR Absent
+PT Present    2            28        
+PT Absent     27           331       
+
+
+Contingency Table for Name_Calling-Labeling || contrast:
+              DR Present  DR Absent
+PT Present    10           20        
+PT Absent     50           308       
+
+
+Contingency Table for Doubt || concession:
+              DR Present  DR Absent
+PT Present    14           24        
+PT Absent     28           322       
+
+
+Contingency Table for Doubt || cause:
+              DR Present  DR Absent
+PT Present    7            31        
+PT Absent     74           276       
+
+
+Contingency Table for Doubt || purpose:
+              DR Present  DR Absent
+PT Present    3            35        
+PT Absent     26           324       
+
+
+Contingency Table for Doubt || contrast:
+              DR Present  DR Absent
+PT Present    14           24        
+PT Absent     46           304       
+
+
+Contingency Table for Flag_Waving || concession:
+              DR Present  DR Absent
+PT Present    3            16        
+PT Absent     39           330       
+
+
+Contingency Table for Flag_Waving || cause:
+              DR Present  DR Absent
+PT Present    4            15        
+PT Absent     77           292       
+
+
+Contingency Table for Flag_Waving || purpose:
+              DR Present  DR Absent
+PT Present    5            14        
+PT Absent     24           345       
+
+
+Contingency Table for Flag_Waving || contrast:
+              DR Present  DR Absent
+PT Present    7            12        
+PT Absent     53           316       
+
+
+Contingency Table for Exaggeration-Minimisation || concession:
+              DR Present  DR Absent
+PT Present    5            26        
+PT Absent     37           320       
+
+
+Contingency Table for Exaggeration-Minimisation || cause:
+              DR Present  DR Absent
+PT Present    13           18        
+PT Absent     68           289       
+
+
+Contingency Table for Exaggeration-Minimisation || purpose:
+              DR Present  DR Absent
+PT Present    6            25        
+PT Absent     23           334       
+
+
+Contingency Table for Exaggeration-Minimisation || contrast:
+              DR Present  DR Absent
+PT Present    7            24        
+PT Absent     53           304       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || concession:
+              DR Present  DR Absent
+PT Present    4            13        
+PT Absent     38           333       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || cause:
+              DR Present  DR Absent
+PT Present    8            9         
+PT Absent     73           298       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || purpose:
+              DR Present  DR Absent
+PT Present    1            16        
+PT Absent     28           343       
+
+
+Contingency Table for Appeal_to_Fear-Prejudice || contrast:
+              DR Present  DR Absent
+PT Present    4            13        
+PT Absent     56           315       
+
+
+Contingency Table for Loaded_Language || concession:
+              DR Present  DR Absent
+PT Present    7            40        
+PT Absent     35           306       
+
+
+Contingency Table for Loaded_Language || cause:
+              DR Present  DR Absent
+PT Present    30           17        
+PT Absent     51           290       
+
+
+Contingency Table for Loaded_Language || purpose:
+              DR Present  DR Absent
+PT Present    3            44        
+PT Absent     26           315       
+
+
+Contingency Table for Loaded_Language || contrast:
+              DR Present  DR Absent
+PT Present    7            40        
+PT Absent     53           288       
+
+
+Contingency Table for Repetition || concession:
+              DR Present  DR Absent
+PT Present    5            25        
+PT Absent     37           321       
+
+
+Contingency Table for Repetition || cause:
+              DR Present  DR Absent
+PT Present    5            25        
+PT Absent     76           282       
+
+
+Contingency Table for Repetition || purpose:
+              DR Present  DR Absent
+PT Present    9            21        
+PT Absent     20           338       
+
+
+Contingency Table for Repetition || contrast:
+              DR Present  DR Absent
+PT Present    11           19        
+PT Absent     49           309       
+
+

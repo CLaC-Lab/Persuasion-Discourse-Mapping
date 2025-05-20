@@ -1,0 +1,587 @@
+[
+  {
+    "instance_id": "1",
+    "text": "Knowing a tasty \u2013 and free \u2013 meal when they eat one, the executives gave the chefs a standing ovation.",
+    "actual_DR_level1": "temporal",
+    "actual_DR_level2": "synchronous",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "3",
+    "text": "For Ms. Cunningham the architectural discombobulation matched the discrepancy she felt living in the AnaMor Towers as a little girl.",
+    "actual_DR_level1": "temporal",
+    "actual_DR_level2": "synchronous",
+    "ensemble_prediction": "similarity",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "4",
+    "text": "Then, in late-afternoon trading, hundred-thousand-share buy orders for UAL hit the market, including a 200,000-share order through Bear Stearns that seemed to spark UAL\u2019s late price surge. Almost simultaneously, PaineWebber began a very visible buy program for dozens of stocks.",
+    "actual_DR_level1": "temporal",
+    "actual_DR_level2": "synchronous",
+    "ensemble_prediction": "synchronous",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "7",
+    "text": "The parishioners of St. Michael and All Angels stop to chat at the church door, as members here always have. In the tower, five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614.",
+    "actual_DR_level1": "temporal",
+    "actual_DR_level2": "synchronous",
+    "ensemble_prediction": "synchronous",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "8",
+    "text": " A buffet breakfast was held in the museum, where food and drinks are banned to everyday visitors. Then, in the guests\u2019 honor, the speedway hauled out four drivers, crews and even the official Indianapolis 500 announcer for a 10-lap exhibition race. ",
+    "actual_DR_level1": "temporal",
+    "actual_DR_level2": "asynchronous",
+    "ensemble_prediction": "asynchronous",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "9",
+    "text": "Back downtown, the execs squeezed in a few meetings at the hotel before boarding the buses again.",
+    "actual_DR_level1": "temporal",
+    "actual_DR_level2": "asynchronous",
+    "ensemble_prediction": "asynchronous",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "12",
+    "text": "William Gates and Paul Allen in 1975 developed an early language-housekeeper system for PCs, and Gates became an industry billionaire six years after IBM adapted one of these versions in 1981.",
+    "actual_DR_level1": "temporal",
+    "actual_DR_level2": "asynchronous",
+    "ensemble_prediction": "asynchronous",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "13",
+    "text": "John D. Carney, 45, was named to succeed Mr. Hatch as president of Eastern Edison. Previously he was vice president of Eastern Edison. ",
+    "actual_DR_level1": "temporal",
+    "actual_DR_level2": "asynchronous",
+    "ensemble_prediction": "asynchronous",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "15",
+    "text": "The world being the nasty place it is, we want Presidents to have the freedom to order operations in which someone might get killed.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "16",
+    "text": "Runways at San Francisco weren\u2019t damaged, but traffic was being limited yesterday to 27 arrivals and 27 departures an hour \u2013 down from 33 to 45 an hour normally \u2013 mainly because the noise level in the control tower was overwhelming without the windows, an FAA spokeswoman said.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "17",
+    "text": " Inflation surging, the pound began falling against the mark. ",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "19",
+    "text": "The Nicaraguan president, citing attacks by the U.S.-backed rebels, suspended a 19-month-old cease-fire . . .",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "21",
+    "text": "Unable to unload UAL and other airline shares, takeover-stock speculators, or risk arbitragers, dumped every blue-chip stock they had.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "22",
+    "text": "Stung by the Giuliani ads, Mr. Dinkins\u2019s TV consultants, Robert Shrum and David Doak, finally unleashed a negative ad of their own.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "23",
+    "text": " With membership of the Church of England steadily dwindling, strong-willed vicars are pressing equally strong-willed and often non-religious ringers to attend services.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "24",
+    "text": "Treasurys opened lower, reacting negatively to news that the producer price index \u2013 a measure of inflation on the wholesale level \u2013 accelerated in September.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "26",
+    "text": "y 11:59 p.m. tonight, President Bush must order $16 billion of automatic, across-the-board cuts in government spending to comply with the Gramm-Rudman budget law. The cuts are necessary because Congress and the administration have failed to reach agreement on a deficit-cutting bill.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "27",
+    "text": "In countries such as Taiwan, South Korea and Singapore, economies are growing, resulting in a rise in disposable income that consumers can use for soft drinks.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "28",
+    "text": "The bill would then declare that the debt is equity and therefore isn\u2019t deductible.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "29",
+    "text": "Now, though, enormous costs for earthquake relief will pile on top of outstanding costs for hurricane relief. \u201cThat obviously means that we won\u2019t have enough for all of the emergencies that are now facing us, . . . ,\u201d Mr. Fitzwater said. ",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause",
+    "ensemble_prediction": "cause",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "33",
+    "text": "With this sort of sentiment common, it\u2019s natural for investors to seek out \u201cdefensive\u201d investment.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause+belief",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "34",
+    "text": "The nations of southern Africa know a lot about managing elephants; their herds are thriving.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "cause+belief",
+    "ensemble_prediction": "cause",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "43",
+    "text": "But some bond market analysts said that could quickly change if property casualty insurance companies scramble to sell portions of their municipal portfolios to raise cash to pay damage claims.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "condition",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "44",
+    "text": "Had he been a little less gung-ho, \u201dI\u2019d have gotten the thing on the ground and headed for the nearest bar,\u201d Mr. Brown says. ",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "condition",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "45",
+    "text": "Trade and Industry Secretary Nicholas Ridley told the House of Commons yesterday that he will relinquish the government\u2019s so-called golden share in the company as long as Jaguar shareholders agree.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "condition",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "46",
+    "text": "The price of the second simulator ranges between C$16.4 million and C$18 million, CAE said, depending on when the Army exercises its option.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "condition",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "47",
+    "text": "Banks need a competitive edge to sell their products.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "purpose",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "48",
+    "text": "He said the index would have to be in the low 40% range for several months to be considered a forecast of recession.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "condition",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "49",
+    "text": "Had the contest gone a full seven games, ABC could have reaped an extra $10 million in ad sales on the seventh game alone.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "condition",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "50",
+    "text": "Left to its own devices, index arbitrage will become more and more efficient, making it harder and harder to do profitably. ",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "cause",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "51",
+    "text": "On the other hand, had it existed then, Cray Computer would have incurred a $20.5 million loss.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "condition",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "52",
+    "text": ". . . which, unlike utilities, aren\u2019t regulated and therefore don\u2019t need government approval to construct new plants.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "cause",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "53",
+    "text": "At the same time, though, it must become more structured to better manage its growth.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition",
+    "ensemble_prediction": "concession",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "55",
+    "text": "If bringing the message is a crime, I\u2019m guilty of it.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "condition+speechact",
+    "ensemble_prediction": "condition",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "56",
+    "text": "The National Institutes of Health policy would require researchers to cut financial ties with health-care businesses or lose their government money.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "negative-condition",
+    "ensemble_prediction": "condition",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "59",
+    "text": "Unless the Federal Reserve eases interest rates soon to stimulate the economy, profits could remain disappointing",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "negative-condition",
+    "ensemble_prediction": "negative-condition",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "61",
+    "text": "He also said that the group reduced its offer because it wasn\u2019t allowed to see Georgia Gulf\u2019s confidential financial information without agreeing that it wouldn\u2019t make an offer unless it had Georgia Gulf\u2019s consent.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "negative-condition",
+    "ensemble_prediction": "cause",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "66",
+    "text": "Skilled ringers use their wrists to advance or retard the next swing, so that one bell can swap places with another in the following change.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "purpose",
+    "ensemble_prediction": "purpose",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "67",
+    "text": "Do you really need this much money to put up these investments?",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "purpose",
+    "ensemble_prediction": "cause+speechact",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "68",
+    "text": "In September, the company said it was seeking offers for its five radio stations in order to concentrate on its programming business.",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "purpose",
+    "ensemble_prediction": "purpose",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "69",
+    "text": "The two companies have been discussing a transaction under which Fresenius would buy Delmed stock for cash to bring its beneficial ownership to between 70% and 80% of Delmed\u2019s fully diluted common stock. ",
+    "actual_DR_level1": "contingency",
+    "actual_DR_level2": "purpose",
+    "ensemble_prediction": "purpose",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "72",
+    "text": "Crucial as these elections are for Greece, pressing issues of state are getting lost in the shuffle.",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "concession",
+    "ensemble_prediction": "concession",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "73",
+    "text": "The documents also said that although the 64-year-old Mr. Cray has been working on the project for more than six years, the Cray-3 machine is at least another year away from a fully operational prototype. ",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "concession",
+    "ensemble_prediction": "concession",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "76",
+    "text": "Barely visible on Hong Kong\u2019s property scene in 1985, by last year Japan had become the top foreign investor. ",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "concession",
+    "ensemble_prediction": "asynchronous",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "78",
+    "text": "Last Friday, 96 stocks on the Big Board hit new 12-month lows. But by Mr. Granville\u2019s count, 493 issues were within one point of such lows. ",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "concession",
+    "ensemble_prediction": "contrast",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "79",
+    "text": "Several of those post-crash changes kicked in during Friday\u2019s one-hour collapse and worked as expected, even though they didn\u2019t prevent a stunning plunge. ",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "concession",
+    "ensemble_prediction": "concession",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "83",
+    "text": "While the earnings picture confuses, observers say the major forces expected to shape the industry in the coming year are clearer.",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "contrast",
+    "ensemble_prediction": "concession",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "84",
+    "text": "After all, gold prices usually soar when inflation is high. Utility stocks, on the other hand, thrive on disinflation . . .",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "contrast",
+    "ensemble_prediction": "contrast",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "85",
+    "text": "Mr. Edelman said the decision \u201dhas nothing to do with Marty Ackerman.\u201d Mr. Ackerman contended that it was a direct response to his efforts to gain control of Datapoint.",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "contrast",
+    "ensemble_prediction": "contrast",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "86",
+    "text": "Stocks closed higher in Hong Kong, Manila, Singapore, Sydney and Wellington, but were lower in Seoul.",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "contrast",
+    "ensemble_prediction": "contrast",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "87",
+    "text": "There wasn\u2019t a lot of panic selling, either domestically or internationally. Not like Friday where they just took {the market} apart.",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "contrast",
+    "ensemble_prediction": "contrast",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "88",
+    "text": "...that even after Monday\u2019s 10% decline, the Straits Times index is up 24% this year, so investors who bailed out generally did so profitably. Similarly, Kuala Lumpur\u2019s composite index yesterday ended 27.5% above its 1988 close.",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "similarity",
+    "ensemble_prediction": "similarity",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "89",
+    "text": "Just as the 1980s bull market transformed the U.S. securities business, so too will the more difficult environment of the 1990s,\u201d says Christopher T. Mahoney, a Moody\u2019s vice president.",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "similarity",
+    "ensemble_prediction": "similarity",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "91",
+    "text": "Her Susie Diamond handles a song the way the greats do, like she\u2019s hearing the way it should sound inside her head and she\u2019s concentrating on matching that internal tone. ",
+    "actual_DR_level1": "comparison",
+    "actual_DR_level2": "similarity",
+    "ensemble_prediction": "manner",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "93",
+    "text": "Chemical named James Kennedy, . . . , to assume Mr. Edelson\u2019s duties and to be trading manager for derivative products, including swaps and interest-rate options ",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "conjunction",
+    "ensemble_prediction": "purpose",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "95",
+    "text": "If we want to support students, we might adopt the idea used in other countries of offering more scholarships based on something called \u201dscholarship,\u201d rather than on the government\u2019s idea of \u201dservice.\u201d Or we might provide a tax credit for working students. ",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "disjunction",
+    "ensemble_prediction": "disjunction",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "96",
+    "text": "If we want to support students, we might adopt the idea used in other countries of offering more scholarships based on something called \u201cscholarship,\u201d rather than on the government\u2019s idea of \u201cservice.\u201d.",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "disjunction",
+    "ensemble_prediction": "condition",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "97",
+    "text": "Chairman Krebs says the California pension fund is getting a bargain price that wouldn\u2019t have been offered to others. In other words: The real estate has a higher value than the pending deal suggests.",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "equivalence",
+    "ensemble_prediction": "equivalence",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "103",
+    "text": "Then, as if to show that he could play fast as well, he offered the second movement from Saint-Saens\u2019s Sonata for Clarinet, ...",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "instantiation",
+    "ensemble_prediction": "purpose",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "106",
+    "text": "The computers were crude by today\u2019s standards. Apple II owners, for example, had to use their television sets as screens and stored data on audiocassettes. ",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "instantiation",
+    "ensemble_prediction": "instantiation",
+    "agreement_count": 9,
+    "total_models": 9
+  },
+  {
+    "instance_id": "107",
+    "text": "And regional offices were \u201cegregiously overstaffed,\u201d he claims. One office had 19 people doing the work of three, . . . ",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "instantiation",
+    "ensemble_prediction": "instantiation",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "109",
+    "text": "...expanding the monthly reports on program trading to cover specific days or even hours of heavy program trading and who was doing it.",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "level-of-detail",
+    "ensemble_prediction": "purpose",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "111",
+    "text": "First came his predictable fusillade: He charged the Coalition of the Left and Progress had sold out its leftist tenets by collaborating in a right-wing plot . . . .",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "level-of-detail",
+    "ensemble_prediction": "asynchronous",
+    "agreement_count": 7,
+    "total_models": 9
+  },
+  {
+    "instance_id": "113",
+    "text": "An enormous turtle has succeeded where the government has failed: He has made speaking Filipino respectable.",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "level-of-detail",
+    "ensemble_prediction": "contrast",
+    "agreement_count": 8,
+    "total_models": 9
+  },
+  {
+    "instance_id": "121",
+    "text": "Rather than sell 39-cents-a-pound Delicious, maybe we can sell 79-cents-a-pound Fujis,\u201d says Chuck Tryon, . . . ",
+    "actual_DR_level1": "expansion",
+    "actual_DR_level2": "substitution",
+    "ensemble_prediction": "substitution",
+    "agreement_count": 9,
+    "total_models": 9
+  }
+]

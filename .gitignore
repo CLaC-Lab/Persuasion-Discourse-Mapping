@@ -1,0 +1,46 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+mvenv/
+env/
+*.log
+
+# Virtual environment folders (custom name)
+.mvenv/
+venv/
+.mypy_cache/
+.pytest_cache/
+
+
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Compiled C extensions
+*.so
+
+# General
+*.swp
+*.bak
+*~
+
+# OS junk files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

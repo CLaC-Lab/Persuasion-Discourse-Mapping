@@ -1,0 +1,25 @@
+# IMPORTANT NOTE: Persuasion Techniques Dataset Processing
+
+## Automated Preprocessing (main preprocessing script)
+* Started with **SemEval 2023 Task 3** dataset
+  * **3,760 human-annotated news/web paragraphs** (some with multiple PTs)
+* **Flattened** multi-labeled instances 
+  * Increased from **3,760 → 5,853 instances**
+
+## Additional Manual Processing (performed separately)
+These steps were performed using separate local scripts and are not part of the main preprocessing pipeline:
+
+* **Balancing** by reducing overrepresented categories 
+  * Reduced top 2 PTs from **48% → 30%** of instances
+  * Resulted in **4,315** instances
+  
+* **Sentence Filtering** - removed paragraphs with **>2 sentences**
+  * Ensures more reliable DR annotation, prevents multiple competing DRs
+  
+* **Final PT dataset** after all processing: **2,064 instances** with **19 PTs** available in this dataset (`PT_dataset_A.json`)
+
+
+**The actual text content has been masked in this dataset**
+
+To access the full text data, please contact the SemEval 2023 Task 3 organizers directly
+

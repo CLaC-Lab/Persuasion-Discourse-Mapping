@@ -1,0 +1,42 @@
+{
+  "5": {
+    "agreement_level": 5,
+    "trial1_f1": 0.405,
+    "trial1_size": 99,
+    "trial2_f1": 0.406,
+    "trial2_size": 97,
+    "average_f1": 0.406
+  },
+  "6": {
+    "agreement_level": 6,
+    "trial1_f1": 0.488,
+    "trial1_size": 85,
+    "trial2_f1": 0.471,
+    "trial2_size": 82,
+    "average_f1": 0.48
+  },
+  "7": {
+    "agreement_level": 7,
+    "trial1_f1": 0.514,
+    "trial1_size": 65,
+    "trial2_f1": 0.497,
+    "trial2_size": 65,
+    "average_f1": 0.506
+  },
+  "8": {
+    "agreement_level": 8,
+    "trial1_f1": 0.639,
+    "trial1_size": 47,
+    "trial2_f1": 0.632,
+    "trial2_size": 51,
+    "average_f1": 0.636
+  },
+  "9": {
+    "agreement_level": 9,
+    "trial1_f1": 0.717,
+    "trial1_size": 36,
+    "trial2_f1": 0.739,
+    "trial2_size": 37,
+    "average_f1": 0.728
+  }
+}
